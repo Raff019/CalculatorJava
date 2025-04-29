@@ -1,5 +1,6 @@
 # CalculatorJava
 Simple Calculator - First Project
+
 This project is a simple calculator built as a beginner’s programming exercise. It performs basic arithmetic operations such as addition, subtraction, multiplication, and division. The calculator is designed to be user-friendly and straightforward to help you practice and understand the core concepts of programming.
 
 Features:
